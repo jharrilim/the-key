@@ -1,0 +1,16 @@
+{
+  "name": "the-key",
+  "version": "0.1.0",
+  "description": "random basketball stat stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "basketball",
+    "stat",
+    "random"
+  ],
+  "author": "Joseph Harrison-Lim",
+  "license": "GPL-3.0"
+}
