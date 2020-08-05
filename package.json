@@ -15,7 +15,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@jharrilim/balldontlie-client": "^0.7.1",
-    "fastify": "^2.6.0",
+    "fastify": "^2.15.1",
     "fastify-swagger": "^2.4.0"
   }
 }
